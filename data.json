@@ -1,0 +1,9 @@
+{
+  "title": "Lab Task",
+  "login_credentials ": [
+    { "username": "nomi11", "password": "123" },
+    { "username": "malik14", "password": "1234" },
+    { "username": "talha10", "password": "12345" },
+    { "username": "usama16", "password": "12345" }
+  ]
+}
